@@ -1,0 +1,21 @@
+.mainHeading{
+    text-align: center;
+}
+.container{
+    background: greenyellow;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    max-width: 340px;
+    width: 100%;
+    border-radius: 15px;
+}
+.row input{
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 20px;
+    height: 15px;
+}
